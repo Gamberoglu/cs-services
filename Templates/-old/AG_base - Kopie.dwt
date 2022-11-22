@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="DC.title" content="Regioport Siegerland - regional. Geschichte. erleben.">
+    <meta name="DC.contributor" content="Patrick Fink">
+    <meta name="DC.publisher" content="PSeminararbeit des Instituts für Geschichtswissenschaften, Uni Siegen" />
+    <meta name="DC.rights" content="Copyright 2008. All rights reserved.">
+    <meta name="Author" content="Birgit Richter">
+    <meta name="description" content="Ein Portal, das ausgewählte Aspekte der Geschichte des Siegerlandes multimedial darstellt">
+
+    <meta name="Keywords" LANG="de" content="Regionale Geschichte Siegen Siegerland Geschichtswissenschaften">
+    <meta name="Publisher-Email" content="info@regioport-siegerland.de">
+    
+<title>Alte Geschichte / Universität Siegen</title>
+
+<link href="../AG_CSS.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+a:active {
+	color: #666666;
+	text-decoration: none;
+}
+body {
+	background-repeat: repeat-y;
+	margin-top: 0px;
+	background-image: url(../images/MASTER/bg_quer.jpg);
+	background-color: #666666;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+-->
+</style></head>
+
+<body onload="MM_preloadImages('../images/menu/START_OVL.jpg','../images/menu/PROFIL_OVL.jpg','../images/menu/TEAM_OVL.jpg','../images/menu/LEHRE_OVL.jpg','../images/menu/LINKS_OVL.jpg','../images/menu/DOWNLOADS_OVL.jpg','../images/menu/KONTAKT_OVL.jpg','../images/menu/AKTUELLES_OVL.jpg','../images/menu/FORSCHUNG_OVL.jpg','../images/MASTER/TOP_MAIL2.jpg')">
+<div align="center" class="body" id="div_center">
+  
+  <div align="center">
+    <table width="887" border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+      <tr>
+        <td width="887" height="719">
+          <table width="887" border="0" cellpadding="0" cellspacing="0" class="tab_top">
+            <tr>
+              <td width="702" height="103" colspan="11" rowspan="2"><img src="../images/MASTER/TOP.jpg" width="702" height="103" border="0" /></td>
+            <td width="185" height="41"><a href="mailto:info@alte-geschichte.de" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image26','','../images/MASTER/TOP_MAIL2.jpg',1)"><img src="../images/MASTER/TOP_MAIL.jpg" name="Image26" width="185" height="41" border="0" id="Image26" /></a></td>
+          </tr>
+            <tr>
+              <td width="185" height="62"><img src="../images/MASTER/TOP_MAIL_BOTTOM.jpg" width="185" height="62" border="0" /></td>
+          </tr>
+          </table>
+        <table width="887" border="0" cellpadding="0" cellspacing="0" class="tab_top">
+          <tr>
+            <td width="57" height="34" rowspan="2"><img src="../images/menu/MENU_L.jpg" width="57" height="34" /></td>
+            <td width="68" height="34" rowspan="2"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','../images/menu/START_OVL.jpg',1)"><img src="../images/menu/START.jpg" name="Image17" width="68" height="34" border="0" id="Image17" /></a></td>
+            <td width="96" height="34" rowspan="2"><a href="../aktuelles.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image25','','../images/menu/AKTUELLES_OVL.jpg',1)"><img src="../images/menu/AKTUELLES.jpg" name="Image25" width="96" height="34" border="0" id="Image25" /></a></td>
+            <td width="81" height="34" rowspan="2"><a href="../profil.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','../images/menu/PROFIL_OVL.jpg',1)"><img src="../images/menu/PROFIL.jpg" name="Image18" width="81" height="34" border="0" id="Image18" /></a></td>
+            <td width="77" height="34" rowspan="2"><a href="../team.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','../images/menu/TEAM_OVL.jpg',1)"><img src="../images/menu/TEAM.jpg" name="Image19" width="77" height="34" border="0" id="Image19" /></a></td>
+            <td width="71" height="34" rowspan="2"><a href="../lehre.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','../images/menu/LEHRE_OVL.jpg',1)"><img src="../images/menu/LEHRE.jpg" name="Image20" width="71" height="34" border="0" id="Image20" /></a></td>
+            <td width="887" height="34" rowspan="2"><a href="../links.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','../images/menu/LINKS_OVL.jpg',1)"><img src="../images/menu/LINKS.jpg" name="Image22" width="78" height="34" border="0" id="Image22" /></a></td>
+            <td width="103" height="34" rowspan="2"><a href="../forschung.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','../images/menu/FORSCHUNG_OVL.jpg',1)"><img src="../images/menu/FORSCHUNG.jpg" name="Image21" width="103" height="34" border="0" id="Image21" /></a></td>
+            <td width="106" height="34" rowspan="2"><a href="../downloads.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','../images/menu/DOWNLOADS_OVL.jpg',1)"><img src="../images/menu/DOWNLOADS.jpg" name="Image23" width="106" height="34" border="0" id="Image23" /></a></td>
+            <td width="89" height="34" rowspan="2"><a href="../kontakt.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','../images/menu/KONTAKT_OVL.jpg',1)"><img src="../images/menu/KONTAKT.jpg" name="Image24" width="89" height="34" border="0" id="Image24" /></a></td>
+            <td width="61" height="34" rowspan="2"><img src="../images/menu/MENU_R.jpg" width="61" height="34" /></td>
+          </tr>
+          </table>  
+        <table width="887" border="0" cellpadding="0" cellspacing="0" class="tab_top">
+          <tr>
+            <td width="887" height="7" rowspan="2"><img src="../images/MASTER/TOP_BOTTOM.jpg" width="887" height="7" /></td>
+          </tr>
+          </table>    
+        <table width="887" border="0" cellpadding="0" cellspacing="0" background="../images/MASTER/bg.jpg">
+          <tr>
+            <td width="887" height="550" bgcolor="#FFFFFF" class="text"><div align="left"><!-- TemplateBeginEditable name="EDIT" --><!-- TemplateEndEditable --></div></td>
+          </tr>
+          </table>
+        <table width="887" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="623" height="25"><img src="../images/MASTER/BOTTOM.jpg" width="623" height="25" /></td>
+            <td width="264" height="25"><img src="../images/MASTER/BOTTOM_COPYRIGHT.jpg" width="264" height="25" /></td>
+          </tr>
+        </table>        </td>
+       </tr>
+    </table>
+  </div>
+  <p align="center">&nbsp;</p>
+  <p align="center">&nbsp;</p>
+</div>
+</body>
+</html>

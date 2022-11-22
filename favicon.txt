@@ -1,0 +1,29 @@
+* Die FaviNator Hilfe
+
+  favicon.ico  --  Die Favicon Datei (unterstützt sowohl 16*16 and 32*32 Größen).
+
+  * Laden Sie das Favicon auf Ihre WebSeite in das Root Verzeichniss und fügen den folgenden HTML-Code innerhalb des
+  <head> ... </ head> Bereiches ein.
+
+      <link rel="shortcut icon" href="favicon.ico">
+
+  * Optional: Falls Sie das animierte Favicon anzeigen möchten, laden Sie einfach das
+     animated_favicon1.gif aus der Zip Datei in das Root Verzeichnis ihrer Webseite und fügen den folgenden HTML-Code ein.
+
+      <link rel="shortcut icon" href="favicon.ico" >
+      <link rel="icon" href="animated_favicon1.gif" type="image/gif" >
+
+
+* Zusätzliche Dateien innerhalb der Zip Datei
+
+  * Die zusätzlichen PNG Bilddateien dienen Ihnen rein zu Vorschauzwecken und müssen nicht hochgeladen werden! Folgende
+    Files befinden sich in der Zip Datei:
+
+    - favicon.ico - favicon.
+    - vorschau_16x16.png - 16*16 PNG Bild Datei des Favicon.
+    - vorschau_32x32.png - 32*32 PNG Bild Datei des Favicon.
+    - animated_favicon.gif - animierte Version des Favicon.
+    - readme.txt - Hilfe Datei
+
+    Viel Spaß mit Ihrem neuen Favicon!
+    Favinator.de

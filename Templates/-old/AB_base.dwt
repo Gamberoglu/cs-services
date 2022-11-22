@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="DC.title" content="Regioport Siegerland - regional. Geschichte. erleben.">
+    <meta name="DC.contributor" content="Patrick Fink">
+    <meta name="DC.publisher" content="PSeminararbeit des Instituts für Geschichtswissenschaften, Uni Siegen" />
+    <meta name="DC.rights" content="Copyright 2008. All rights reserved.">
+    <meta name="Author" content="Birgit Richter">
+    <meta name="description" content="Ein Portal, das ausgewählte Aspekte der Geschichte des Siegerlandes multimedial darstellt">
+
+    <meta name="Keywords" LANG="de" content="Regionale Geschichte Siegen Siegerland Geschichtswissenschaften">
+    <meta name="Publisher-Email" content="info@regioport-siegerland.de">
+    
+<title>Alte Geschichte / Universität Siegen</title>
+
+<link href="../AG_CSS.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+a:link {
+	color: #000000;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+a:active {
+	color: #666666;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+body {
+	background-repeat: repeat-y;
+	margin-top: 0px;
+	background-image: url(../images/MASTER/bg_quer.jpg);
+	background-color: #666666;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+-->
+</style>
+</head>
+
+<body class="body">
+<div align="center" id="div_center">
+  
+  <div align="center">
+    <table width="887" border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" id="structure">
+      <tr>
+        <td width="887" height="719">
+          <table width="887" border="0" cellpadding="0" cellspacing="0" class="tab_top">
+           <tr>
+             <td width="887" height="30" colspan="11" rowspan="2"><img src="../images/top.jpg" width="887" height="30" /></td>
+          </tr>
+          <tr>
+             <td width="65" height="106"><img src="../images/logo_L.jpg" width="65" height="106" /></td>
+             <td width="334" height="106"><img src="../images/logo.jpg" width="334" height="106" /></td>
+             <td width="488" height="106"><img src="../images/logo_R.jpg" width="488" height="106" /></td>
+          </tr>
+          </table>
+        <table width="887" border="0" cellpadding="0" cellspacing="0" class="tab_top">
+          <tr>
+            <td width="65" height="34" rowspan="2"><img src="../images/menu_L.jpg" width="65" height="45" /></td>
+            <td width="68" height="34" rowspan="2"><img src="../images/projekte.jpg" width="87" height="45" /></td>
+            <td width="96" height="34" rowspan="2"><img src="../images/referenzen.jpg" width="134" height="45" /></td>
+            <td width="81" height="34" rowspan="2"><img src="../images/partner.jpg" width="113" height="45" /></td>
+            <td width="77" height="34" rowspan="2"><img src="../images/kontakt.jpg" width="112" height="45" /></td>
+            <td width="71" height="34" rowspan="2"><img src="../images/impressum.jpg" width="125" height="45" /></td>
+            <td width="251" height="34" rowspan="2"><img src="../images/menu_R.jpg" width="251" height="45" /></td>
+          </tr>
+          </table>  
+       <table width="887" border="0" cellpadding="0" cellspacing="0" background="../images/MASTER/bg.jpg" id="content" name="content">
+          <tr>
+            <td width="887" height="581" bgcolor="#FFFFFF" class="tab_center"><div align="left"><!-- TemplateBeginEditable name="EDIT" -->
+              <table width="887" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </table>
+            <!-- TemplateEndEditable --></div></td>
+          </tr>
+          </table>
+        <table width="887" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="887" height="47"><img src="../images/bottom.jpg" width="887" height="47" /></td>
+          </tr>
+        </table>        </td>
+       </tr>
+    </table>
+  </div>
+  <p align="center">&nbsp;</p>
+  <p align="center">&nbsp;</p>
+</div>
+</body>
+</html>
