@@ -1,0 +1,124 @@
+@charset "utf-8";
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333;
+	float: left;
+	text-align: justify;
+}
+.galerie {
+	vertical-align: top;
+	padding: 0px;
+}
+
+.projnavibar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333;
+	float: right;
+}
+
+.navibar {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333;
+	text-align: right;
+	font-style: normal;
+	vertical-align: top;
+}
+
+
+.body {
+	background-color: #FFF;
+	background-repeat: no-repeat;
+	margin-top: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	background-image: none;
+}
+.tab_top {
+	background-image: none;
+	background-repeat: no-repeat;
+	top: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.tab_center {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	top: 0px;
+	background-position: top;
+	vertical-align: top;
+	background-repeat: repeat-y;
+}
+
+.tab_bot {
+	bottom: 0px;
+	position: absolute;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.tab_content {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333;
+	vertical-align: top;
+	overflow: scroll;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 25px;
+	padding-left: 4px;
+}
+.tab-navi_bg {
+	background-image: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333;
+	text-align: right;
+	vertical-align: middle;
+	padding-right: 30px;
+}
+.image_R {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-top: 12px;
+	padding-right: 0px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+}
+.tab_center {
+	overflow: scroll;
+	background-repeat: repeat-y;
+}
+div.scroll {
+	overflow : auto;
+}
+projnavibarTAG {
+	font-family: Tahoma, Geneva, sans-serif;
+}
